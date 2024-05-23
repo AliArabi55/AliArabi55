@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ALi Arabi</h1>
+<h1 align="center">Hi 👋, I'm Ali Arabi</h1>
 <h3 align="center">Machine learning engineer | Software Engineer</h3>
 
-- 🔭 I’m currently working on **Legendary combat**
+- 🔭 I’m currently working on **Legendary combat and Mediator**
 
 - 🌱 I’m currently learning **Tensorflow**
 
