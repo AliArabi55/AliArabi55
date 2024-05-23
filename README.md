@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ali_arabi55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali_arabi55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali arabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali arabi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aliarabi55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali arabi" height="30" width="40" /></a>
 <a href="https://kaggle.com/aliarabi55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliarabi55" height="30" width="40" /></a>
-<a href="https://fb.com/ali arabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali arabi" height="30" width="40" /></a>
+<a href="https://fb.com/ali.arabi.9822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali arabi" height="30" width="40" /></a>
 <a href="https://instagram.com/aliarabi5x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliarabi5x" height="30" width="40" /></a>
 <a href="https://medium.com/@aliarabi55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliarabi55" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/علي عربي ali arabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="علي عربي ali arabi" height="30" width="40" /></a>
