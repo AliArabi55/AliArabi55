@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Arabi</h1>
-<h3 align="center">Machine learning engineer | Software Engineer</h3>
+<h3 align="center">Machine Learning Engineer | Software Engineer | Game Developer</h3>
 
 - 🔭 I’m currently working on **Legendary combat and Mediator**
 
