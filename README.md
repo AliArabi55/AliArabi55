@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mediator and Legendary Combat**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **TensorFlow and PyTorch**
 
 - 📫 How to reach me **aliarabimak@gmail.com**
 
