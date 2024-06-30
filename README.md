@@ -90,3 +90,6 @@
 </div>
 
 <h2 align="left">Tools</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visual studio logo"  />
+</div>
