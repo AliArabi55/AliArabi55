@@ -17,7 +17,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AliArabi55.AliArabi55&left_text=Profile%20views%20"  />
 </div>
-![giphy](https://github.com/AliArabi55/AliArabi55/assets/99290120/6f183dcf-e481-47a9-abf3-ed5d4cbed050)
 
 ###
 
