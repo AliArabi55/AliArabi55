@@ -81,8 +81,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Frameworks</h2>
 
 ###
@@ -101,8 +99,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Tools</h2>
 
 ###
@@ -114,8 +110,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Database</h2>
 
