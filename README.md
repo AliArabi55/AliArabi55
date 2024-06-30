@@ -20,9 +20,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">My Profiles</h2>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlncGxwcXFkNHY0eTYydWlkbmZ2anNxMjczc244aDB1aW9tZjkxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39wFTeHR6424Pjw8TO/giphy.webp"  />
 
@@ -54,6 +58,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Languages</h2>
 
 ###
@@ -74,6 +80,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Frameworks</h2>
 
 ###
@@ -92,6 +100,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Tools</h2>
 
 ###
@@ -103,6 +113,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Database</h2>
 
