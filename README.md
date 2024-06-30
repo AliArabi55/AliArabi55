@@ -68,3 +68,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="40" alt="scikit learn logo"  />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
+</div>
