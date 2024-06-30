@@ -61,3 +61,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="tensorflow logo"  />
 </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" height="40" alt="keras logo"  />
+</div>
