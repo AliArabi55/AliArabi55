@@ -114,3 +114,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="40" alt="jupyter logo"  />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
+</div>
