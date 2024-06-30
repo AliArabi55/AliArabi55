@@ -64,3 +64,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" height="40" alt="keras logo"  />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="40" alt="scikit learn logo"  />
+</div>
