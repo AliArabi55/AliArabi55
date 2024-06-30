@@ -72,3 +72,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
+</div>
