@@ -20,11 +20,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZzOHN5aW1hNnlycHVqdWx0cGxzYjJlcmNiZnBmeWR0OXkzbWpmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2pZfL0YPC9sk/giphy.webp"  />
+<h2 align="left">My Profiles</h2>
 
 ###
 
-<h2 align="left">My Profiles</h2>
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlncGxwcXFkNHY0eTYydWlkbmZ2anNxMjczc244aDB1aW9tZjkxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39wFTeHR6424Pjw8TO/giphy.webp"  />
 
 ###
 
