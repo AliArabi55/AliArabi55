@@ -8,11 +8,11 @@
 
 <br clear="both">
 
-<h3 align="center">Best Speaker among 18 Egyptian universities in 2024🎤<br> Golden Member@IEEE 2X🥇</h3>
+<h2 align="center">Best Speaker among 18 Egyptian universities in 2024🎤<br> Golden Member@IEEE 2X🥇</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=AliArabi55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
 </div>
 
@@ -26,9 +26,9 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhqenRmNmdlY3BzZ3ppaWY5azQ0bTVqcnA5NWNlcTM2Y2gxdDU1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39wFTeHR6424Pjw8TO/giphy.gif"  />
-</div>
+<br clear="both">
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhqenRmNmdlY3BzZ3ppaWY5azQ0bTVqcnA5NWNlcTM2Y2gxdDU1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39wFTeHR6424Pjw8TO/giphy.gif"  />
 
 ###
 
