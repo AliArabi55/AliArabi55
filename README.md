@@ -58,3 +58,6 @@
 </div>
 
 <h2 align="left">Frameworks</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="tensorflow logo"  />
+</div>
