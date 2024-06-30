@@ -13,15 +13,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AliArabi55.AliArabi55&left_text=Profile%20views%20"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">My Profiles</h2>
 
