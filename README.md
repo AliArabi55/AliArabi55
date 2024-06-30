@@ -80,3 +80,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+</div>
