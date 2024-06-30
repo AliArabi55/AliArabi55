@@ -7,3 +7,7 @@
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=AliArabi55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
 </div>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AliArabi55.AliArabi55&left_text=Profile%20views%20"  />
+</div>
