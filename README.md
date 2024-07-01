@@ -104,7 +104,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="35" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Scikit--learn-DA4A91?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="scikit-learn logo" />
+  <img src="https://img.shields.io/badge/Scikit--learn-DA4A91?logo=scikit-learn&logoColor=white&style=for-the-badge" height="35" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="35" alt="opencv logo"  />
   <img width="12" />
