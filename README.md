@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1 align="left">Hi 👋,I'm Ali Arabi</h1>
+=======
+<h1 align="left">Hi 👋 ,I'm Ali Arabi</h1>
+>>>>>>> 672288c2e8860373d9a59b6bd5d702f3afcaa89d
 
 ###
 
