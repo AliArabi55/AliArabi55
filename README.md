@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 <h1 align="left">Hi 👋 I'm Ali Arabi</h1>
+=======
+<h1 align="left">Hi 👋, I'm Ali Arabi </h1>
+>>>>>>> Stashed changes
 
 ###
 
